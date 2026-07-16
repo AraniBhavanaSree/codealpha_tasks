@@ -1,3 +1,5 @@
+// Task 4: Hotel Reservation System - CodeAlpha Internship
+// Description: Book rooms, check availability, store bookings in file
 import java.io.*;
 import java.util.Scanner;
 public class Hotel {
