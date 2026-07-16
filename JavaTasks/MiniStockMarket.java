@@ -1,3 +1,5 @@
+// Task 2: Stock Trading Platform - CodeAlpha Internship
+// Description: Basic buy/sell stocks with portfolio tracking
 import java.io.*;
 import java.util.Scanner;
 class Stock {
