@@ -1,3 +1,5 @@
+// Task 1: Student Grade Tracker - CodeAlpha Internship
+// Description: Takes student marks input and calculates average, grade
 import java.util.Scanner;
 public class StudentGradeTracker {
         public static void main(String[] args) {
